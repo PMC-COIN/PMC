@@ -1,0 +1,2 @@
+# PMC
+Premium Coin is a Frictionless yield and liquidity generation protocol. Premium Coin Swap is backed by Liquidity Generation and Autonomous Yield protocol that helps the token holders earn passive income while also enhancing the liquidity of the pool.  Premium Coin token is an autonomous yield and  liquidity generation protocol. Every time someone buys or sell Premium Coin token, the total supply goes down and the Holders get rewarded.
